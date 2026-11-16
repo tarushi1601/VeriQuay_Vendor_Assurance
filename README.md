@@ -80,15 +80,6 @@ OCR is best-effort: very poor scans, rotated pages, unusual templates, and handw
 python -m unittest discover -v
 ```
 
-## Suggested five-minute demo
-
-- **0:00–0:40** — Problem, VeriQuay Command center, and intended procurement user.
-- **0:40–1:30** — Live workflow Happy path, show stages as they execute, Approved result.
-- **1:30–2:25** — PDF tax mismatch, side-by-side document vs. form, vendor correction draft.
-- **2:25–3:15** — Bank switch, internal verification task, audit event.
-- **3:15–4:00** — Duplicate identity or expired certificate, show safe Pending decision.
-- **4:00–4:35** — Decision explorer and history; show traceability.
-- **4:35–5:00** — Explain that OCR is optional, decisions are deterministic, and human review protects ambiguous cases.
 
 ## Architecture
 
